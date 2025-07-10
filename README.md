@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 I'm Chyngyz Sultanaliev
 
-<!--
-**chyngyz-sultanaliev/chyngyz-sultanaliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer from Kyrgyzstan 🇰🇬
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **React-based projects** with Redux, RTK Query, and responsive UI
+- 🌱 I’m currently learning: **Next.js, TypeScript, and WebRTC**
+- 💬 Ask me about: `React`, `SCSS`, `API integration`, `Responsive Design`
+- ⚡ Fun fact: I love clean code, minimal UIs, and pixel-perfect layouts
+
+---
+
+### 🛠 Tech Stack
+
+- 💻 **Languages:** JavaScript, HTML, CSS, SCSS
+- ⚛️ **Frameworks & Libraries:** React, Redux, RTK Query, TailwindCSS, Axios
+- 🛠 **Tools:** Git, Figma, Vite, Webpack, ESLint, Prettier
+- 🌐 **Backend Integration:** REST API, Node.js, Express
+- 🚀 **Deployment:** Vercel, Heroku, Nginx, Docker
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chyngyz-sultanaliev&show_icons=true&theme=radical)
+
+---
+
+### 📫 How to reach me
+
+- Email: [chyngyz@example.com](mailto:chyngyz@example.com)
+- Telegram: [@yourusername](https://t.me/yourusername)
+- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
