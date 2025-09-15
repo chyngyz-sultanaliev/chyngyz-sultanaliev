@@ -1,38 +1,34 @@
-## Hi there 👋 I'm Chyngyz Sultanaliev
+# Привет 👋, я Yousef Iq  
 
-I'm a passionate Frontend Developer from Kyrgyzstan 🇰🇬
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on: **React-based projects** with Redux, RTK Query, and responsive UI
-- 🌱 I’m currently learning: **Next.js, TypeScript, and WebRTC**
-- 💬 Ask me about: `React`, `SCSS`, `API integration`, `Responsive Design`
-- ⚡ Fun fact: I love clean code, minimal UIs, and pixel-perfect layouts
+💻 Fullstack Developer | React · Node.js · Express · Docker  
+🌱 Сейчас изучаю: Next.js, CI/CD, DevOps практики  
+📚 Интересуюсь: WebRTC, Real-time Apps, AI-интеграции  
+🎯 Цель: стать Senior Developer и построить крупные проекты  
 
 ---
 
-### 🛠 Tech Stack
+## 📊 GitHub Статистика
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefiq&show_icons=true&theme=tokyonight)
 
-- 💻 **Languages:** JavaScript, HTML, CSS, SCSS
-- ⚛️ **Frameworks & Libraries:** React, Redux, RTK Query, TailwindCSS, Axios
-- 🛠 **Tools:** Git, Figma, Vite, Webpack, ESLint, Prettier
-- 🌐 **Backend Integration:** REST API, Node.js, Express
-- 🚀 **Deployment:** Vercel, Heroku, Nginx, Docker
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefiq&layout=compact&theme=tokyonight)
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chyngyz-sultanaliev&show_icons=true&theme=radical)
-
----
-
-### 📫 How to reach me
-
-- Email: [chyngyz@example.com](mailto:chyngyz@example.com)
-- Telegram: [@yourusername](https://t.me/yourusername)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+## 🚀 Технологии и Стек
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=fff&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🌐 Контакты
+- 📩 Email: yousef@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com)  
+- 🌍 [Portfolio](https://your-portfolio.com)  
+
+---
+⭐️ Не забудь закрепить свои проекты, чтобы показать лучшие работы!
