@@ -8,7 +8,7 @@
 ---
 
 ## 📊 Статистика GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?/chyngyz-sultanaliev=yousefiq&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?/username=chyngyz-sultanaliev&show_icons=true&theme=tokyonight)
 
 ---
 
