@@ -14,6 +14,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyngyz-sultanaliev&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chyngyz-sultanaliev&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chyngyz-sultanaliev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chyngyz-sultanaliev&layout=compact&theme=tokyonight)
+![GitHub Issues](https://img.shields.io/github/issues/chyngyz-sultanaliev?style=for-the-badge&color=blue)
 
 
 ## 🚀 Основные технологии
