@@ -1,8 +1,8 @@
 # Привет 👋, я Yousef Iq  
 
 💻 Fullstack Developer  
-⚡ Работаю с: React, Redux Toolkit, Node.js, Express, Docker, Nginx  
-🌱 Изучаю: Next.js, CI/CD, WebRTC  
+⚡ Работаю с: React, Redux Toolkit, Node.js,  
+🌱 Изучаю: Next.js, Backend, Flutter, ts, js, Node.js, dart
 🎯 Цель: развитие как Senior разработчик и работа над крупными проектами  
 
 ---
@@ -14,14 +14,14 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chyngyz-sultanaliev&layout=compact&theme=tokyonight)
 
-![GitHub Issues](https://img.shields.io/github/issues/chyngyz-sultanaliev?style=for-the-badge&color=blue)
-
 
 ## 🚀 Основные технологии
+
 - **Frontend:** React, Redux Toolkit, Vite, Next.js  
-- **Backend:** Node.js, Express  
-- **DevOps:** Docker, Nginx, CI/CD  
-- **Базы данных:** PostgreSQL, MongoDB  
+- **Styling:** css, module.css / .module.scss, scss, Tailwind  
+- **API & Requests:** REST API, Axios, RTK Query  
+- **Deployment:** Vercel  
+- **Other Tools:** Git, GitHub, Postman, Swagger
 
 ---
 
