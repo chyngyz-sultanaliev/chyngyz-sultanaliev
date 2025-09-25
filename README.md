@@ -26,7 +26,6 @@
 ---
 
 ## 🌐 Контакты
-📩 Email: yousef@example.com  
-💼 LinkedIn: [linkedin.com/in/yousefiq](https://linkedin.com/in/yousefiq)  
-🌍 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+📩 Email: chyngyzsultanaliev25@gmail.com 
+
 
