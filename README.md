@@ -3,6 +3,7 @@
 💻 Fullstack Developer  
 ⚡ Работаю с: React, Redux Toolkit, Node.js,  
 🌱 Изучаю: Next.js, Backend, Flutter, ts, js, Node.js, dart
+
 🎯 Цель: развитие как Senior разработчик и работа над крупными проектами  
 
 ---
