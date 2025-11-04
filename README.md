@@ -17,16 +17,14 @@
 
 ## 🚀 Основные технологии
 
-- **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white), ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white), Vite, Next.js
-- **Styling:** CSS, SCSS, Tailwind
-- **API & Requests:** REST API, Axios, RTK Query
-- **Deployment:** Vercel
+- **Frontend:** React, Redux Toolkit, Vite, Next.js  
+- **Styling:** css, module.css / .module.scss, scss, Tailwind  
+- **API & Requests:** REST API, Axios, RTK Query  
+- **Deployment:** Vercel  
 - **Other Tools:** Git, GitHub, Postman, Swagger
-
 
 ---
 
 ## 🌐 Контакты
 📩 Email: chyngyzsultanaliev25@gmail.com 
-
 
