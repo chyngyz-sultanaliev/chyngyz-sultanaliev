@@ -10,9 +10,9 @@
 ## 📊 Статистика GitHub
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chyngyz-sultanaliev&show_icons=true&theme=tokyonight&hide=stars,followers)](https://github.com/chyngyz-sultanaliev)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chyngyz-sultanaliev&layout=compact&theme=tokyonight&langs_count=5)](https://github.com/chyngyz-sultanaliev)
 
-> ⚠️ Если виджеты не показываются, убедись, что хотя бы один публичный репозиторий есть на GitHub.
 
 ---
 
