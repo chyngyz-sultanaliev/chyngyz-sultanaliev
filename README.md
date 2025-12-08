@@ -9,9 +9,10 @@
 
 ## 📊 Статистика GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chyngyz-sultanaliev&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chyngyz-sultanaliev&show_icons=true&theme=tokyonight&hide=stars,followers)](https://github.com/chyngyz-sultanaliev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chyngyz-sultanaliev&layout=compact&theme=tokyonight&langs_count=5)](https://github.com/chyngyz-sultanaliev)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chyngyz-sultanaliev&layout=compact&theme=tokyonight)
+> ⚠️ Если виджеты не показываются, убедись, что хотя бы один публичный репозиторий есть на GitHub.
 
 ---
 
@@ -27,4 +28,4 @@
 
 ## 🌐 Контакты
 📩 Email: [chyngyzsultanaliev25@gmail.com](mailto:chyngyzsultanaliev25@gmail.com)  
-💻 GitHub: [https://github.com/chyngyz-sultanaliev](https://github.com/chyngyz-sultanaliev)
+💻 GitHub: [chyngyz-sultanaliev](https://github.com/chyngyz-sultanaliev)
